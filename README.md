@@ -2,9 +2,7 @@
 
 <!-- <img src="assets/hero.svg" width="380" alt="Illustration développeur" /> --> 
 
-# Hey, I'm Mamifitia - Développeur & Futur Sys and network admin & Cybersec.
-
-Étudiant en Télécommunications, je me spécialise dans le **développement web**, l'**administration réseau et système** et passioné par **cybersécurité**.
+# Hey, I'm Mamifitia - JS DeveloperFutur & Sys and network admin and AI & Cybersec entousiast.
 
 </div>
 
