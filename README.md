@@ -2,7 +2,7 @@
 
 <!-- <img src="assets/hero.svg" width="380" alt="Illustration développeur" /> --> 
 
-# Hey, I'm Mamifitia - JS DeveloperFutur & Sys and network admin and AI & Cybersec entousiast.
+# Hey, I'm Mamifitia - JS Developer & Futur Sys and network admin and AI & Cybersec entousiast.
 
 </div>
 
